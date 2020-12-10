@@ -1,4 +1,4 @@
-my_age=27
+my_age=27 #take input
 user_age=int(input("type your age:"))
 if(user_age>my_age):
     print("you are older then me")
